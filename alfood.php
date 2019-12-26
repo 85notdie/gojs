@@ -50,7 +50,7 @@ $headers[] = 'X-Location: -6.405821,106.064193';
                 echo "\e[92m[+] Token Tersimpan di ~> ".$live." \n\n";
                 
                 
-                sleep(5);
+                sleep(3);
                 echo "\n";
                 echo "\e[96m[!] Proses Redeem Vocher : COBAINGOJEK \n";
                 $data6 = '{"promo_code":"COBAINGOJEK"}';
